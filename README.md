@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Avelous Ujiri!
+### Hi 👋 I'm Avelous!
 <a href="https://twitter.com/Avelouseth"><img src="https://user-images.githubusercontent.com/86206128/182034124-9de8fc5b-0f4a-48b6-9a37-c2e2a0c9f8e8.svg" width="100" height="30"></a> <a href="https://www.linkedin.com/in/avelous"><img src="https://user-images.githubusercontent.com/86206128/182034127-826b3d79-4904-41e0-8897-e418973be00c.svg" width="100" height="30"></a>
 
-I am a keen Smart Contract and Frontend Software Engineer. Passionate about leveraging my prowess in building the future of tech and finance 
+I am a keen Smart Contract and Frontend Software Engineer, Leveraging my prowess in building the future of tech and finance 
 
-Open to learning as evolution never ends 🌱
+Find me at buidlguidl [Avelous0x](https://buidlguidl.com/builders/0xDcd5f58Ed05ed34A4c0a99F34029Bd8313f5D529)🌱
 
 <!--
 **Avelous/avelous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
