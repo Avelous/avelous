@@ -3,7 +3,7 @@
 
 I am a keen Smart Contract and Frontend Software Engineer, Leveraging my prowess in building the future of tech and finance 
 
-Find me at buidlguidl [Avelous0x](https://buidlguidl.com/builders/0xDcd5f58Ed05ed34A4c0a99F34029Bd8313f5D529)🌱
+Building at buidlguidl 🌱
 
 <!--
 **Avelous/avelous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
