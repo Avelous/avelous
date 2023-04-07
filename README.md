@@ -8,7 +8,7 @@
 
 
 <h3 align="center">
-I am a keen Smart Contract and Frontend Software Engineer, Leveraging my prowess in building the future of tech and finance 
+I am a keen Web3 Software Engineer, Leveraging my prowess in building the future of tech and finance 
 
 </h3>
 
