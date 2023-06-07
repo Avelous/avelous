@@ -4,7 +4,7 @@
 </h4>
 
 <h4>
-I am a keen Web3 Software Engineer, Leveraging my prowess in building the future of tech and finance 
+I am a keen Web3 Fullstack Developer, Leveraging my prowess in building the future of tech and finance 
 
 </h4>
 
