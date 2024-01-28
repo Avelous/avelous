@@ -1,11 +1,6 @@
-<h4>
-   Hi I'm Avelous! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h4>
 
 <h4>
-I am a keen Web3 Fullstack Developer, Leveraging my prowess in building the future of tech and finance 
-
+I'm Avelous and I build on chain Apps
 </h4>
 
 
