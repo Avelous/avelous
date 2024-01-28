@@ -6,14 +6,10 @@ I'm Avelous and I build on chain Apps
 
 <h4 >
 
-<a href="https://twitter.com/Avelouseth"><img src="https://user-images.githubusercontent.com/86206128/182034124-9de8fc5b-0f4a-48b6-9a37-c2e2a0c9f8e8.svg" width="100" height="30"></a> <a href="https://www.linkedin.com/in/avelous"><img src="https://user-images.githubusercontent.com/86206128/182034127-826b3d79-4904-41e0-8897-e418973be00c.svg" width="100" height="30"></a>  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=avelous&color=a177fe&style=for-the-badge"/>
+<a href="https://twitter.com/Avelouseth"><img src="https://user-images.githubusercontent.com/86206128/182034124-9de8fc5b-0f4a-48b6-9a37-c2e2a0c9f8e8.svg" width="100" height="30"></a> <a href="https://www.linkedin.com/in/avelous"><img src="https://user-images.githubusercontent.com/86206128/182034127-826b3d79-4904-41e0-8897-e418973be00c.svg" width="100" height="30"></a>
 </h4>
 
 
-<!-- Profile  views -->
-<p align="center">
-  
-</p>
 
 
 
