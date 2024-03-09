@@ -1,6 +1,6 @@
 
 <h4>
-I'm Avelous and I build on chain Apps
+    I build on chain Apps
 </h4>
 
 
